@@ -1,0 +1,30 @@
+div {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    background-color: deepskyblue;
+    color: azure;
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
+    
+}
+
+h3 {
+    background-color: skyblue;
+    color:white;
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
+   
+    
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 5px solid black;
+}
